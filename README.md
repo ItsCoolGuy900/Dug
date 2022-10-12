@@ -1,7 +1,5 @@
-# Example LEB Mod
+# Dug
 
-Example LEB-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+Repository for the Dug custom map, made for LEB
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEB-ModTools documentation](https://github.com/DBTDerpbox/LEB-ModTools/wiki)
+Available on the LEB experimental feature server (test.leb.derpbox.xyz)
