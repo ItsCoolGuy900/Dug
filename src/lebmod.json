@@ -8,10 +8,10 @@
     "pack": "vanilla",
     "hassmall": false,
     "haslarge": true,
-    "haslargeplus": false,
+    "haslargeplus": true,
     "hasremastered": false,
     "centercoords_small": "0 0 0",
     "centercoords_large": "59 51 136",
-    "centercoords_largeplus": "0 0 0",
+    "centercoords_largeplus": "59 51 136",
     "centercoords_remastered": "0 0 0"
 }
